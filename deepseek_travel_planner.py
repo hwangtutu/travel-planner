@@ -148,7 +148,7 @@ def main():
     st.title("✈️ Local DeepSeek R1 Travel Assistant")
     st.markdown(
         """
-        Using DeepSeek R1 1.5B model running locally through Ollama
+        Powered by DeepSeek API (chat model)
         """
     )
     st.markdown(
