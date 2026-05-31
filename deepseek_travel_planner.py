@@ -140,12 +140,12 @@ Examples:
 
 def main():
     st.set_page_config(
-        page_title="DeepSeek R1 Travel Assistant",
+        page_title="DeepSeek Travel Assistant",
         page_icon="✈️",
         layout="wide"
     )
 
-    st.title("✈️ Local DeepSeek R1 Travel Assistant")
+    st.title("✈️ DeepSeek Travel Assistant")
     st.markdown(
         """
         Powered by DeepSeek API (chat model)
